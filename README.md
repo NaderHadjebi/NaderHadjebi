@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaderHadjebi
-- 👀 I’m interested in Sharepoint
-- 🌱 I’m currently learning PnPPowershell
+- 👀 I’m interested in Sharepoint specially SPFx webparts
+- 🌱 I’m like using PnPPowershell
 - 💞️ I’m looking to collaborate on Sharepoint and Apps
 - 📫 How to reach me twitter @nader2015 or nader4@gmail.com
 
